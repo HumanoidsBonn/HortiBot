@@ -49,7 +49,7 @@ successfully.
 |---|---|---|
 | Cropped peduncle detection | [pepper-peduncle-detection](https://github.com/HumanoidsBonn/pepper-peduncle-detection) | Pepper-centered peduncle instance segmentation, dataset, and checkpoint |
 | Active perception planner | [active_perception_planner](https://github.com/HumanoidsBonn/active_perception_planner) | Viewpoint planning and online observation for harvesting |
-| HortiBot robot model | [horti_model](https://gitlab.igg.uni-bonn.de/phenorob/oc2/horti_model) | ROS robot description and model; institutional GitLab access may be required |
+| HortiBot robot model | [horti_model](https://github.com/HumanoidsBonn/horti_model) | ROS robot description and model |
 
 The components are published separately because they have distinct runtime and
 dependency requirements. Follow the setup instructions in each repository.
