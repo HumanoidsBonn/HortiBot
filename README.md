@@ -1,5 +1,11 @@
 # HortiBot
 
+[![IROS 2024](https://img.shields.io/badge/IROS-2024-555555.svg?style=flat)](https://doi.org/10.1109/IROS58592.2024.10802082)
+[![Paper](https://img.shields.io/badge/Paper-IEEE-2f6fbb.svg?style=flat)](https://doi.org/10.1109/IROS58592.2024.10802082)
+[![arXiv](https://img.shields.io/badge/arXiv-2403.15306-b31b1b.svg?style=flat)](https://arxiv.org/abs/2403.15306)
+[![Video](https://img.shields.io/badge/Video-YouTube-555555.svg?style=flat)](https://www.youtube.com/watch?v=qI2K1cS58KE)
+[![MP4](https://img.shields.io/badge/Video-MP4-6a9f2a.svg?style=flat)](https://www.ais.uni-bonn.de/videos/IROS_2024_Lenz/HortiBot_IROS_2024.mp4)
+
 ![HortiBot harvesting sweet peppers in a glasshouse](docs/images/hortibot-glasshouse.jpg)
 
 HortiBot is an adaptive three-arm system for robotic horticulture. It uses two
@@ -58,7 +64,8 @@ dependency requirements. Follow the setup instructions in each repository.
 
 - [IEEE paper](https://doi.org/10.1109/IROS58592.2024.10802082)
 - [arXiv preprint](https://arxiv.org/abs/2403.15306)
-- [Project video](https://www.ais.uni-bonn.de/videos/IROS_2024_Lenz/)
+- [YouTube video](https://www.youtube.com/watch?v=qI2K1cS58KE)
+- [High-resolution MP4](https://www.ais.uni-bonn.de/videos/IROS_2024_Lenz/HortiBot_IROS_2024.mp4)
 
 ```bibtex
 @inproceedings{lenz2024hortibot,
